@@ -8,14 +8,14 @@
   <li>PHP is free to download and use.</li>
 </ul>
 
-<h2>🔴What is a PHP File?</h2>
+<h2>🟠What is a PHP File?</h2>
 <ul>
   <li>PHP files can contain text, HTML, CSS, JavaScript, and PHP code.</li>
   <li>PHP code is executed on the server, and the result is returned to the browser as plain HTML.</li>
   <li>PHP files have the extension <code>.php</code>.</li>
 </ul>
 
-<h2>🔴What Can PHP Do?</h2>
+<h2>🟡What Can PHP Do?</h2>
 <ul>
   <li>PHP can generate dynamic page content.</li>
   <li>PHP can create, open, read, write, delete, and close files on the server.</li>
@@ -27,7 +27,7 @@
   <li>With PHP you are not limited to output HTML — you can also output images, PDF files, or any text format such as XHTML and XML.</li>
 </ul>
 
-<h2>🔴Why PHP?</h2>
+<h2>🟢Why PHP?</h2>
 <ul>
   <li>PHP runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).</li>
   <li>PHP is compatible with almost all servers used today (Apache, IIS, etc.).</li>
