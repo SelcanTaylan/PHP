@@ -1,4 +1,4 @@
-<h1>PHP Case Sensitivity</h1>
+<h1>🔴PHP Case Sensitivity</h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
@@ -7,7 +7,7 @@
   <li><strong>Note:</strong> However, all <u>variable names are case-sensitive</u>!</li>
 </ul>
 
-<h2>Examples</h2>
+<h2>🟠Examples</h2>
 <ul>
   <li>
   <pre><code>
@@ -18,7 +18,7 @@ EcHo "Hello World!&lt;br&gt;";
 ?&gt;
 </code></pre> 
   </li>
-These three lines will all output the same result because <code>echo</code> is not case-sensitive.
+  These three lines will all output the same result because <code>echo</code> is not case-sensitive.
   <li>
     <pre><code>
 &lt;?php
@@ -29,8 +29,7 @@ echo "My boat is " . $coLOR . "&lt;br&gt;";
 ?&gt;
 </code></pre>
   </li>
-Only the first <code>echo</code> will work correctly, because variable names are case-sensitive.
+  Only the first <code>echo</code> will work correctly, because variable names are case-sensitive.
 </ul>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
