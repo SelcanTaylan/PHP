@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2>🔴PHP Variables</h2>
+<h2>💥PHP Variables💥</h2>
 <ul>
   <li>A variable can have a short name: <code>$x</code>, <code>$y</code></li>
   <li>Or a descriptive name: <code>$age</code>, <code>$carname</code>, <code>$total_volume</code></li>
